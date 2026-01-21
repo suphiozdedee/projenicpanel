@@ -1,0 +1,2 @@
+## Pages
+- [Projenic - Panele Giriş Yap](/login): Projenic yönetim platformuna giriş yapın. İşlemlerinizi kolaylaştırın ve projelerinizi yönetin.

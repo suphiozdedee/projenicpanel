@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://panel.projenicdesign.com/sitemap.xml
